@@ -19,7 +19,7 @@ test_requirements = [
 
 setup(
     name='py-env-config',
-    version='0.1.0',
+    version='0.1.1',
     description="A tool for configuring your application via environment variables",
     long_description=readme + '\n\n' + history,
     author="Tim Martin",
