@@ -17,5 +17,5 @@ deploy:
     secure: iZRFLQnzdwuttSTOadfZmqaKv+FaDSFKYJNfCx4vaEKpg3qVsexi5iVQwE4VD/UyI9dqM+b6A8RHJlgz7AInuPLWwaNHdmEusMcnjnnct30/8OpLPgHYC0Re+AV+CmOjyBKXJ3C7LbLJquDbocUnaibzxi3TQ+vY7kbErItfGCZXr9h4nAwPcCCJ77GVcAckjjwRaPob5kTwv9qYcc2EECILCAc6qwGbeDa7LGpEBBC6ORMFkDbN7XF+jXT5VUHYi56haixx8FJ8hE8aOYb9SbSOaxb8J6sdileCmXStOjvzA/WwUzO8cf0u4KDjJqUpUDHlubskVEk7G+KZKZ0UvHYOmIaRlIkJB/JOBcBL4cA9NLKfvpIMg0eDXKW5gC7CJxjUtBUheB/ohcBYAOEIn35aGJpapoXfQJ3MHR/EdGqsJii5pQYZXG+lADdXN8gO+Wtzwwk/nrrMttT0X5aaKR8iZef5Sr90iLK+T+RFSQ5YofLRJLZzDQDo7X8CTPndxxGu8Hn3BsrLYmW1GL3ic8FA0A1R13/dgd/e38548aCBMtRC0WOO++6ftsz6PBHF5MvJdWoZeh86DtqodwyjmvUE7/u2fCyRbUGAsM5pq59XwzF8qsWnuvycBlNifq6wsIoUv94Re6yBSnkjmtp21kMzxjnpKWwe+zs8xM7O23Q=
   on:
     tags: true
-    repo: timmartin19/env_config
+    repo: timmartin19/py-env-config
     condition: $TOXENV == py27
